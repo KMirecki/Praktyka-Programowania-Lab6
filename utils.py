@@ -6,8 +6,8 @@ def add(a: int, b: int) -> int:
     return a + b
 
 
-def substract(a: int, b: int) -> int:
-    """function substracts two integers"""
+def subtract(a: int, b: int) -> int:
+    """function subtracts two integers"""
     return a - b
 
 
